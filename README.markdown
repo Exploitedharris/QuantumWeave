@@ -63,7 +63,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support QuantumWeave’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support QuantumWeave’s development through [GitHub Sponsors](https://github.com/sponsors/Exploitedharris)! Your contributions fund:
 - New puzzle levels and lattice patterns.
 - Advanced quantum mechanics simulations.
 - Tutorials for C++ and game development.
